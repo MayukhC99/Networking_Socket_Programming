@@ -10,7 +10,7 @@ Socket Programming in C
     ```sh
       ./server <input1(optional,if_needed)> <input2(optional,if_needed)>
     ```
-2. Then start to start a client
+2. Then start the corresponding client
     1. compile
     ```sh
       gcc <filename> -o client
